@@ -1,0 +1,6 @@
+/images
+/clean
+video.mp4
+trainner.yml
+labels.pickle
+__pycache__/
